@@ -31,7 +31,7 @@ Write a program that takes a student name and grade level as input. Print a badg
 
 **Normal Case:**
 
-```python
+```yaml
 Enter student name: Alice
 Enter grade level: 3
 Badge: AAAlice
@@ -39,7 +39,7 @@ Badge: AAAlice
 
 **Edge Case:**
 
-```python
+```yaml
 Enter student name: Bob
 Enter grade level: 0
 Invalid grade level. Cannot create badge.
