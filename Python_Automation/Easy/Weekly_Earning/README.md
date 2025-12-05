@@ -21,7 +21,7 @@ Edge case: hours = 0, rate = 0
 
 ## Sample Input/Output:
 
-```python
+```yaml
 Enter hours worked: 40
 Enter hourly rate: 15
 Total pay: 600
@@ -30,7 +30,7 @@ Type of rate: <class 'int'>
 Type of total pay: <class 'int'>
 ```
 
-```python
+```yaml
 Enter hours worked: 0
 Enter hourly rate: 0
 Total pay: 0
