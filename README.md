@@ -13,6 +13,7 @@ Professional Python coding portfolio showcasing realistic, business-oriented exe
 
 ## Structure
 professional-portfolio/
+
 ├─ Variables, Expressions, and Statements/
 
 ## How to Run
