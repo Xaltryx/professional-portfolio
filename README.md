@@ -8,9 +8,9 @@ Professional Python coding portfolio showcasing realistic, business-oriented exe
 - [How to Run](#how-to-run)
 - [License](#license)
 
-##Exercises
+## Exercises
 - Variables, Expressions, and Statements: Easy, Intermediate, Advanced
-- 
+
 ## Structure
 professional-portfolio/
 ├─ Variables, Expressions, and Statements/
